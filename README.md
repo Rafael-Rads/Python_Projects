@@ -1,1 +1,1 @@
-# Projetos em Python Confeccionados durante bootcamp online de Alex Freberg
+# Projetos em Python Confeccionados durante o bootcamp online de Alex Freberg
